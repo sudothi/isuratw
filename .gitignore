@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+.venv
+
+# Distribution / Build
+dist/
+build/
+*.spec
+
+# User Data & Config
+proxylist.txt
+proxylist2.txt
+*.log
+*.tmp
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
